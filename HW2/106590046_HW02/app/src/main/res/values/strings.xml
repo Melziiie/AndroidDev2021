@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello Constraint</string>
+    <string name="btnToastLabel">Toast</string>
+    <string name="btnCountLabel">Count</string>
+    <string name="showCountInitial">0</string>
+    <string name="toastMessage">Hello Toast!</string>
+    <string name="btnZeroLabel">Zero</string>
+</resources>

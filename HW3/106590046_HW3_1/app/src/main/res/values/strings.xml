@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">106590046_HW3</string>
+    <string name="article_content">Get Lorem Ipsum Text at https://www.lipsum.com/ .
+        \n<b>Lorem</b>
+        ipsum dolor sit amet,
+        consectetur adipiscing
+        elit.
+        Ut quis imperdiet purus. Lorem ipsum <i>dolor sit amet</i>, consectetur adipiscing elit.
+            Aenean quis tincidunt ante, a varius nisl. Fusce commodo nisi nec urna pellentesque pellentesque. In at suscipit neque. Ut posuere, ex in placerat vehicula, nisl est dictum purus, posuere luctus massa ex blandit magna. Praesent fermentum augue non imperdiet rutrum.
+\n\nSuspendisse magna est, dictum in egestas in, auctor id ex. Phasellus imperdiet quam a risus accumsan iaculis. Praesent varius commodo mauris. Phasellus quis augue quis massa interdum laoreet. Sed vestibulum, quam vel posuere aliquam, mauris nunc ultrices metus, quis tristique turpis nisl vitae quam. Nulla sed enim eu nisl elementum posuere. Nam malesuada dapibus dignissim. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec at felis eget odio varius vulputate. Etiam orci enim, auctor ut consectetur et, mollis vitae ante.
+\n\nMauris sed pharetra nisi, ac auctor dolor. Ut lacinia, purus nec ultricies ornare, lorem
+        ipsum tincidunt nisl, nec sodales velit felis quis lacus. Proin nulla velit, egestas non ex ac, dignissim scelerisque quam. In lacus tellus, facilisis quis massa et, egestas pretium eros. Nunc ullamcorper quam neque, at pellentesque eros egestas nec. Phasellus cursus tellus vitae ante maximus, non auctor enim condimentum. Etiam eu felis diam. Nunc porttitor maximus tellus ac consequat. Morbi a leo at quam gravida fermentum. Proin malesuada sagittis neque pellentesque luctus. Nullam tempor molestie enim ut pharetra. Suspendisse potenti.
+\n\nInteger nec pulvinar dui. Phasellus efficitur augue sit amet tincidunt sagittis. Integer nunc nisl, ultricies in aliquam non, mattis hendrerit lectus. Pellentesque aliquam, nulla ut malesuada volutpat, enim quam consequat ante, quis aliquet neque elit in sapien. Sed non porttitor sem. Nullam urna nunc, aliquet vitae rutrum mattis, imperdiet vel nisl. In id magna eget sapien porta sagittis et eu tellus. Nunc nec dapibus elit, nec fermentum mi. Aliquam porttitor congue elit non mollis. Proin a neque et lacus rhoncus porttitor. Aliquam venenatis bibendum erat nec consectetur. Proin vel efficitur nisl. Pellentesque blandit erat neque, sed venenatis ante suscipit in. Maecenas feugiat et nibh sed lacinia. Integer id lacinia sapien. Morbi sagittis, nibh faucibus ullamcorper ullamcorper, felis metus feugiat sapien, a volutpat dui urna in sapien.
+\n\nNulla facilisi. Morbi sit amet quam id nisl pharetra pellentesque vel quis ipsum. Maecenas sed nibh ut mi faucibus euismod. Suspendisse efficitur, ipsum eget dignissim laoreet, purus neque bibendum felis, id tristique metus velit ut nunc. Nulla accumsan odio turpis, a scelerisque urna porta eget. Donec eget pharetra justo. Donec lobortis elementum nisl. Aenean neque velit, ultricies a fermentum sit amet, accumsan in mauris.</string>
+    <string name="article_heading">Lorem Ipsum Usage</string>
+    <string name="article_subheading">5 paragraphs of Lorem Ipsum</string>
+    <string name="btnComment">Change Image</string>
+    <string name="article_image">Article Image</string>
+</resources>

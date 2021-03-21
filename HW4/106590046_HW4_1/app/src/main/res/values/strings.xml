@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">106590046_HW4_1</string>
+    <string name="btnToastLabel">Edit Count</string>
+    <string name="btnCountLabel">Count</string>
+    <string name="showCountInitial">0</string>
+    <string name="text_header">Count Value</string>
+    <string name="update_count">Update</string>
+</resources>

@@ -1,0 +1,11 @@
+If you run the homework app before implementing onSaveInstanceState(), what happens if you rotate the device?
+	The counter is reset to 0, but the contents of the EditText is preserved.
+
+What Activity lifecycle methods are called when a device-configuration change (such as rotation) occurs?
+	Android shuts down your Activity by calling onPause(), onStop(), and onDestroy(), and then starts it over again, calling onCreate(), onStart(), and onResume().
+
+When in the Activity lifecycle is onSaveInstanceState() called?
+	onSaveInstanceState() is called before the onDestroy() method.
+
+Which Activity lifecycle methods are best to use for saving data before the Activity is finished or destroyed?
+	onPause() or onStop()

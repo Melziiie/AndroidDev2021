@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">106590046_HW4_2</string>
+    <string name="website">https://developer.android.com/</string>
+    <string name="location">Golden Gate Bridge</string>
+    <string name="websiteBtn">Open Website</string>
+    <string name="locationBtn">Open Location</string>
+    <string name="shareText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ullamcorper sem non urna hendrerit, eu condimentum metus eleifend. Donec convallis a ligula in commodo. Praesent.</string>
+    <string name="shareBtn">Share This Text</string>
+    <string name="chooserTitle">\"Share this text with: \"</string>
+    <string name="pictureBtn">Take A Picture</string>
+</resources>

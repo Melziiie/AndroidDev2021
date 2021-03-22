@@ -1,0 +1,8 @@
+Which constructor method do you use to create an implicit Intent to launch a camera app?
+	new Intent(String action)
+
+When you create an implicit Intent object, which of the following is true?
+	All of the above.
+
+Which Intent action do you use to take a picture with a camera app?
+	Intent takePicture = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);

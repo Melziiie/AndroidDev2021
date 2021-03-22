@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
+        Log.d(LOG_TAG,"onSaveInstanceState");
         if (mCount>0) {
             outState.putBoolean("count_started", true);
             outState.putString("count_value",

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">106590046_HW7_1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="text_Donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="text_froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="text_icecream">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="title_activity_ice_cream">IceCreamActivity</string>
+    <string name="donutDesc">Donut</string>
+    <string name="froyoDesc">Froyo</string>
+    <string name="icecreamDesc">Ice Cream</string>
+    <string name="ic_name">IceCream Activity</string>
+    <string name="froyo_name">Froyo Activity</string>
+    <string name="donut_name">Donut Activity</string>
+</resources>

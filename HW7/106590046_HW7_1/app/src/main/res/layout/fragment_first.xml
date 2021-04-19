@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/GridLayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="false"
+    android:layout_centerHorizontal="false"
+    android:layout_centerVertical="false"
+    android:layout_gravity="center"
+    app:layout_anchorGravity="center"
+    app:layout_gravity="center"
+    tools:context=".FirstFragment">
+
+    <ImageView
+        android:id="@+id/donut_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/text_Donuts"
+        android:src="@drawable/donut_circle"
+        android:onClick="nextActivity"/>
+
+    <ImageView
+        android:id="@+id/froyo_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/text_froyo"
+        android:src="@drawable/froyo_circle"
+        android:onClick="nextActivity"/>
+
+    <ImageView
+        android:id="@+id/icecream_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/text_icecream"
+        android:src="@drawable/icecream_circle"
+        android:onClick="nextActivity"/>
+</GridLayout>

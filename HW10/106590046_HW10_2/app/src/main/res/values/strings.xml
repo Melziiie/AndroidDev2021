@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">106590046_HW10_2</string>
+    <string name="urlLabel">Enter URL:</string>
+    <string name="hintURL">www.example.com</string>
+    <string name="sourceBtnText">GET PAGE SOURCE</string>
+    <string name="sourceDefaultText">Page source will appear here</string>
+    <string name="no_results">No Results</string>
+    <string name="loading">Loading…</string>
+    <string name="noURL">Please enter a URL</string>
+    <string name="noNetwork">Please check your network connection and try again.</string>
+    <string name="http">http://</string>
+    <string name="https">https://</string>
+</resources>

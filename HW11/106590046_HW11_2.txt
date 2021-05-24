@@ -1,0 +1,17 @@
+Select all that are true for notification channels:
+
+	You use notification channels to display notifications to the user in the device status bar.
+	You use notification channels to group multiple notifications so that the user can control the 	notifications' behavior.
+	Notification channels are not yet available in the Android Support Library package.
+
+Which API do you use to show a notification in the notification drawer and in the device's status bar?
+	NotificationManager.notify()
+
+Which component is not needed when you add a notification action?
+	Click listener for the action button click event.
+
+Which API do you use to add an action button to a notification?
+	NotificationCompat.Builder.addAction()
+
+Suppose that you create an app that downloads a work of art on the user's device every day. Once the day's image is available, the app shows a notification to the user, and the user can download the image or skip the download. What PendingIntent method would you use to start a service to download the image?
+	PendingIntent.getBroadcast()

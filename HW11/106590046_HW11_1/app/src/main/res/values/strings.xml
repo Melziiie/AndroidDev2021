@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">106590046_HW11_1</string>
+    <string name="randIntDefault">0</string>
+    <string name="broadcastBtnText">Send Custom Broadcast</string>
+</resources>

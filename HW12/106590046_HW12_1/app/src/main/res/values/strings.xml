@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">106590046_HW12_1</string>
+    <string name="alarm_off">Set 11:11 Alarm</string>
+    <string name="alarm_on">11:11 Alarm On</string>
+    <string name="alarm_on_toast">11:11 Alarm On!</string>
+    <string name="alarm_off_toast">11:11 Alarm Off!</string>
+    <string name="alert_title">Make A Wish!</string>
+    <string name="alert_text">It\'s 11:11!</string>
+</resources>
